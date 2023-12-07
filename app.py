@@ -35,7 +35,7 @@ def recommend(medicine):
                                     ## Appliaction Frontend ##
 
                                    # Title of the Application
-st.title('Medicine Recommender System')
+st.title('Alternate Medicine Recommender System')
 
                                         # Searchbox
 selected_medicine_name = st.selectbox(
