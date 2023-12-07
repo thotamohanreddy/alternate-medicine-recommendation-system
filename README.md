@@ -3,15 +3,15 @@
 ![medicine](https://github.com/thotamohanreddy/alternate-medicine-recommendation-system/blob/main/images/medicine.jpeg)
 
 
-#### What you need to run this code
-1. Python (3.9.6)
-2. pip 23.3.1
-3. numpy
-4. pandas
-5. nltk
-6. sklearn
-7. pickle
-8. streamlit
+### What you need to run this code
+> 1. Python (3.9.6)
+> 2. pip 23.3.1
+> 3. numpy
+> 4. pandas
+> 5. nltk
+> 6. sklearn
+> 7. pickle
+> 8. streamlit
 
 ### Steps to Open Localhost for application after cloning this repo: 🌐
 > 1. Download medicine.csv from the below given kaggle dataset link and add it to the project folder 
